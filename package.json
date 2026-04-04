@@ -1,0 +1,15 @@
+{
+  "name": "ai-office-automation",
+  "version": "1.0.0",
+  "description": "Programmatic PowerPoint and Word generation + local AI coding setup",
+  "scripts": {
+    "deck": "node --input-type=module < scripts/create-deck.mjs",
+    "report": "node scripts/create-report.cjs"
+  },
+  "dependencies": {
+    "docx": "^9.0.0",
+    "pptxgenjs": "^4.0.0"
+  },
+  "author": "Tashi",
+  "license": "MIT"
+}
