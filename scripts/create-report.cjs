@@ -132,9 +132,8 @@ const doc = createReport({
   title: "Your Company \u2014 Company Overview",
   overview: [
     new TextRun({ text: "Your Company", bold: true }),
-    new TextRun({ text: " is an enterprise AI solutions company that has deployed systems worth " }),
-    new TextRun({ text: "\u20B9$10M+", bold: true }),
-    new TextRun({ text: " for major Indian conglomerates and global media companies." })
+    new TextRun({ text: " is an enterprise AI solutions company that has deployed $10M+ in production systems" }),
+    new TextRun({ text: " for major conglomerates and global media companies." })
   ],
   sections: [
     {

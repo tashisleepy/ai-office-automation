@@ -102,7 +102,7 @@ const deck = createDeck({
       items: [
         { title: "AI Consulting", desc: "End-to-end AI strategy and deployment for enterprise" },
         { title: "Competitive Intelligence", desc: "PE-grade forensic teardowns with funding reality checks" },
-        { title: "Product Development", desc: "Production-ready AI systems worth $10M+ deployed" }
+        { title: "Product Development", desc: "Production-ready AI systems deployed across enterprise clients" }
       ]
     }
   ],

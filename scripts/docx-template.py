@@ -165,9 +165,8 @@ if __name__ == "__main__":
         "title": "Your Company \u2014 Company Overview",
         "overview": [
             {"text": "Your Company", "bold": True},
-            {"text": " is an enterprise AI solutions company that has deployed systems worth "},
-            {"text": "\u20B9$10M+", "bold": True},
-            {"text": " for major Indian conglomerates and global media companies."},
+            {"text": " is an enterprise AI solutions company that has deployed $10M+ in production systems"},
+            {"text": " for major conglomerates and global media companies."},
         ],
         "sections": [
             {
